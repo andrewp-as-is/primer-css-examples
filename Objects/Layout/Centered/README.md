@@ -4,7 +4,7 @@ https://pypi.org/project/jsfiddle-readme/
 
 
 ###### Link
-unknown (git remote required)
+[https://jsfiddle.net/gh/get/library/pure/looking-for-a-job/primer-css-examples/tree/master/Objects/Layout/Centered/](https://jsfiddle.net/gh/get/library/pure/looking-for-a-job/primer-css-examples/tree/master/Objects/Layout/Centered/)
 
 ###### Details
 key|value

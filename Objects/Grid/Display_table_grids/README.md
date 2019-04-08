@@ -4,7 +4,7 @@ https://pypi.org/project/jsfiddle-readme/
 
 
 ###### Link
-unknown (git remote required)
+[https://jsfiddle.net/gh/get/library/pure/looking-for-a-job/primer-css-examples/tree/master/Objects/Grid/Display_table_grids/](https://jsfiddle.net/gh/get/library/pure/looking-for-a-job/primer-css-examples/tree/master/Objects/Grid/Display_table_grids/)
 
 ###### Details
 key|value
