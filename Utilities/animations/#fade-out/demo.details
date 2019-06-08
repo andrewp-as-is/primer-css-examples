@@ -1,0 +1,4 @@
+description: _
+name: '#fade-out'
+resources:
+- https://unpkg.com/primer/build/build.css

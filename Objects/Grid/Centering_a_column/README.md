@@ -4,7 +4,7 @@ https://pypi.org/project/jsfiddle-readme/
 
 
 ###### Link
-[https://jsfiddle.net/gh/get/library/pure/looking-for-a-job/primer-css-examples/tree/master/Objects/Grid/Centering_a_column/](https://jsfiddle.net/gh/get/library/pure/looking-for-a-job/primer-css-examples/tree/master/Objects/Grid/Centering_a_column/)
+[http://jsfiddle.net/gh/gist/library/pure/looking-for-a-job/primer-css-examples/](http://jsfiddle.net/gh/gist/library/pure/looking-for-a-job/primer-css-examples/)
 
 ###### Details
 key|value
